@@ -1,5 +1,4 @@
 let imgs = document.querySelectorAll('img');
-let buttons = document.querySelectorAll('button');
 
 imgs.forEach((a, i) => {
     a.src = 'https://media1.tenor.com/m/x8v1oNUOmg4AAAAd/rickroll-roll.gif';

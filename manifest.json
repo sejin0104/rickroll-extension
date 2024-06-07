@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name" : "Troll Extension",
+    "name" : "Rickroll Extension",
     "version" : "1.0",
     "content_scripts": [
         {

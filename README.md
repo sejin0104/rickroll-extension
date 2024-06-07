@@ -1,4 +1,4 @@
-# RickRoll Troll 확장 프로그램
+# RickRoll 확장 프로그램
 
 # 경고
 

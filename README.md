@@ -28,4 +28,4 @@
 
 # 크레딧
 
-그런건 없음
+- 적용후 모습 : [[유튜브]](https://www.youtube.com/watch?v=dQw4w9WgXcQ)

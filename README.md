@@ -24,7 +24,7 @@
 1. about:debugging#/runtime/this-firefox 에 접속
 2. 오픈소스를 zip으로 다운로드후, 압축해제
 3. '임시 부가 기능 로드' 클릭
-4. 압축해제한 파일에서 'manifest.json' 파일 지정하면 끝!!
+4. 압축해제한 파일에서 'manifest-firefox.json' 파일 지정하면 끝!!
 
 # 크레딧
 
